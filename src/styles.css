@@ -1,0 +1,6 @@
+:root{--card-bg:#fff;--muted:#666}
+body{font-family:Inter,system-ui,Arial;margin:18px}
+.card{border:1px solid #e6e6e6;padding:12px;border-radius:8px;margin:8px 0}
+input{display:block;padding:10px;margin:8px 0;width:320px;max-width:100%}
+button{padding:8px 12px}
+.error{color:#b00020}
